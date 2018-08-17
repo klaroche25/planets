@@ -1,0 +1,3 @@
+Num_of_moons: 2
+Average_orbital_speed: 86430
+Mean_radius: 3389.5+-0.2
