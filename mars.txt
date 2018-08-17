@@ -3,3 +3,4 @@ Mars has two moons.
 Mars is the 4th planet.
 Mars might have frozen water.
 Mars has a volcano called Olympus Mons.
+Mars has iron.
